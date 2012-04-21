@@ -4,7 +4,7 @@ Bootstrap 是由 Twitter 设计的用于加速网络应用和网站开发的工�
 
 其中，anjlab-bootstrap-rails 项目整合了 Bootstrap 的 CSS 样式 (支持SASS) 和 JS 工具包，可以方便地用于 Rails 3 项目。
 
-备注：这个项目基本克隆了Xdite的 [bootstrap-rails](https://github.com/xdite/bootstrap-rails)，为了方便定制和升级，所以克隆，并升级至 Bootstrap 2.0。
+备注：这个项目基本克隆了Xdite的 [bootstrap-rails](https://github.com/xdite/bootstrap-rails)，为了方便定制和升级，所以克隆并作一些调整。
 
 ## Rails 3 项目使用指南
 
